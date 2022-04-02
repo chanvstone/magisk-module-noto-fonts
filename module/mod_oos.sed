@@ -14,7 +14,7 @@
     d
 }
 /name="monospace"/,/\/family/{
-    /\/family/r ./xml/noto-monospace.xml
+    /\/family/r ./xml/noto-sans-monospace.xml
     d
 }
 /family lang="zh-Hans"/,/\/family/{
